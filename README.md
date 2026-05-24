@@ -5,3 +5,5 @@ Alternate link:https://archive.org/download/infinity-innovation-engine
 tutorial(Please click on the circled item)      
 one
 ![游戏截图](./1/Screenshot_20260524_110350.jpg)
+two
+![游戏截图](./1/IMG_20260524_110820.jpg)
